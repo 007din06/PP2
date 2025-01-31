@@ -1,4 +1,4 @@
-x, y, z = "Orange", "Banana", "Cherry"
-print(x)
-print(y)
-print(z)
+thislist = ["apple", "banana", "cherry"]
+thistuple = ("kiwi", "orange")
+thislist.extend(thistuple)
+print(thislist)

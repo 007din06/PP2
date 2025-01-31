@@ -1,6 +1,8 @@
-x = int(1)
-y = int(2.8)
-z = int("3")
-print(x)
-print(y)
-print(z)
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+newlist = []
+
+for x in fruits:
+  if "a" in x:
+    newlist.append(x)
+
+print(newlist)

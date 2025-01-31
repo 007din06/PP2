@@ -1,6 +1,3 @@
-x = "awesome"
-
-def myfunc():
-  print("Python is " + x)
-
-myfunc()
+thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+  print(x)

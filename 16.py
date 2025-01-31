@@ -1,4 +1,2 @@
-a = "Hello"
-b = "World"
-c = a + b
-print(c)
+thistuple = ("apple", "banana", "cherry", "apple", "cherry")
+print(thistuple)

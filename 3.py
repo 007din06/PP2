@@ -1,2 +1,2 @@
-if 5 > 2:
-    print("Five is greater than two!")
+thislist = ["apple", "banana", "cherry"]
+print(thislist)

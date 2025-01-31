@@ -1,3 +1,1 @@
-import sys
-
-print(sys.version)
+print(10 + 5)
